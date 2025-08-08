@@ -33,11 +33,11 @@ It works by checking:
 
 
 ## Tools/Libraries Used:
--React.js – For building the user interface
--Bootstrap – For clean and responsive styling
--React Material UI Carousel – For displaying product images in a slider
--JavaScript (ES6) – For writing the app logic
--JSON – For storing the sample product data
+-React.js: For building the user interface
+-Bootstrap: For clean and responsive styling
+-React Material UI Carousel: For displaying product images in a slider
+-JavaScript (ES6): For writing the app logic
+-JSON: For storing the sample product data
 
 
 ## Notable Assumptions:
