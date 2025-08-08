@@ -22,7 +22,7 @@ The server should now be running. You can access the application by opening a we
   http://localhost:3000
 ```
 
-AI Feature Chosen:
+## AI Feature Chosen:
 I chose Option C – Recommendation System.
 This feature suggests 3–5 products that are similar to the one the user is currently viewing.
 It works by checking:
@@ -32,7 +32,7 @@ It works by checking:
 
 
 
-Tools/Libraries Used:
+## Tools/Libraries Used:
 -React.js – For building the user interface
 -Bootstrap – For clean and responsive styling
 -React Material UI Carousel – For displaying product images in a slider
@@ -40,7 +40,7 @@ Tools/Libraries Used:
 -JSON – For storing the sample product data
 
 
-Notable Assumptions:
+## Notable Assumptions:
 -The product list is stored locally in a products.json file
 -The recommendation logic is rule-based, not powered by a trained AI model
 -Products are considered "similar" if they share the same category and their price is within ±20% of the selected product’s price.
