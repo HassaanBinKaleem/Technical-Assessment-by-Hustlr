@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Running Shoes",
+    "price": 80,
+    "category": "Shoes",
+    "description": "Lightweight running shoes",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Basketball Shoes",
+    "price": 120,
+    "category": "Shoes",
+    "description": "High grip basketball shoes",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Casual Sneakers",
+    "price": 60,
+    "category": "Shoes",
+    "description": "Everyday sneakers",
+    "rating": 4.0
+  },
+  {
+    "id": 4,
+    "name": "T-Shirt",
+    "price": 20,
+    "category": "Clothing",
+    "description": "Cotton t-shirt",
+    "rating": 4.0
+  },
+  {
+    "id": 5,
+    "name": "Jeans",
+    "price": 45,
+    "category": "Clothing",
+    "description": "Slim-fit jeans",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Hoodie",
+    "price": 35,
+    "category": "Clothing",
+    "description": "Warm hoodie",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Smartphone",
+    "price": 500,
+    "category": "Electronics",
+    "description": "Latest model smartphone",
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "name": "Wireless Earbuds",
+    "price": 80,
+    "category": "Electronics",
+    "description": "Noise cancelling earbuds",
+    "rating": 4.5
+  },
+  {
+    "id": 9,
+    "name": "Laptop",
+    "price": 900,
+    "category": "Electronics",
+    "description": "High performance laptop",
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "name": "Backpack",
+    "price": 40,
+    "category": "Accessories",
+    "description": "Waterproof backpack",
+    "rating": 4.2
+  },
+  {
+    "id": 11,
+    "name": "Trail Running Shoes",
+    "price": 95,
+    "category": "Shoes",
+    "description": "Durable shoes for trail running",
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "name": "Formal Leather Shoes",
+    "price": 150,
+    "category": "Shoes",
+    "description": "Elegant leather shoes for formal occasions",
+    "rating": 4.4
+  }
+]
+
